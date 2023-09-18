@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    margin-top: 160px;
+    margin-left: 180px;
+    font-size: 190px;
+}
+.right{
+    margin-left: 800px;
+    margin-top: -515px;
+    text-align: -right;
+}
+.right h1{
+    font-size: 80px;
+    margin-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.right h2{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 15px;
+}
+#go{
+    text-decoration: none;
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    width: 230px;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 15px;
+    color: rgb(158, 150, 150);
+}
+#ap{
+    text-decoration: none;
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    width: 230px;
+    text-align: center;
+    display: inline-block;
+    font-weight: 600;
+    color: black;
+}
+.right hr{
+    margin-top: 15px;
+    margin-right: 314px;
+    margin-bottom: 15px;
+}
+.right button{
+    background-color: #4285F4;
+    width: 250px;
+    padding: 7px;
+    border-radius: 50px;
+    border: none;
+    margin-bottom: 10px;
+}
+#ag{
+    font-size: 9px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#tm{
+    font-size: 9px;
+    text-decoration: none;
+    color: #4285F4;
+}
+#tm:hover{
+    text-decoration: underline;
+}
+#and{
+    font-size: 9px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#pri{
+    font-size: 9px;
+    text-decoration: none;
+    color: #4285F4;
+}
+#pri:hover{
+    text-decoration: underline;
+}
+#inc{
+    font-size: 9px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#coo{
+    font-size: 9px;
+    text-decoration: none;
+    color: #4285F4;
+}
+#coo:hover{
+    text-decoration: underline;
+}
+.bottom{
+    margin-left: 800px;
+    margin-top: 55px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bottom button{
+    text-decoration: none;
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    width: 260px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 15px;
+    color: #4285F4;
+}
+#g{
+    color: black;
+    
+}
